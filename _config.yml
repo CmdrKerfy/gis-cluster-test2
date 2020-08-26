@@ -1,7 +1,7 @@
 # Site
 name: "GIS Education | PEPFAR ICPI"
 title: "PEPFAR GIS"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "A resource for learning how to leverage geographic tools with PEPFAR data."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /gis-cluster-test2
@@ -16,7 +16,7 @@ authors:
   keif:
     name: Keifer Gonzalez
     display_name: Keifer Gonzalez
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/monkey.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: 
     web: /gis-cluster-test2/tags#Keifer-Gonzalez

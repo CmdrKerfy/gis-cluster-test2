@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "About Bundler"
-author: sal
-categories: [ Jekyll ]
+author: john
+categories: [ example ]
 image: assets/images/2.jpg
 rating: 3
 ---
