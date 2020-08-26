@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Navigating the Panorama Mapping Dossier"
-author: john
+author: nate
 categories: [ microStrategy, tutorial, panorama ]
-tags: [John, State Dept]
+tags: [Nathanael Greene, State Dept]
 image: assets/images/pano.png
 imagebody: 
 description: "A walkthrough of the Mapping Dossier's, sections, functionality, and limitations."

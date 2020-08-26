@@ -24,13 +24,23 @@ authors:
 
   john:
     name: John
-    display_name: John
+    display_name: John Poop
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
     web: /gis-cluster-test2/tags#John
     twitter: https://twitter.com/wowthemesnet
     description: "I hate John."
+  
+  nate:
+    name: Nate
+    display_name: Nathanael Greene
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: /gis-cluster-test2/tags#Nathanael-Greene
+    twitter: https://twitter.com/wowthemesnet
+    description: "The other one, not Gina."
 
 # Plugins
 plugins:
