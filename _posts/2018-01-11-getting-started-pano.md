@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "Navigating the Panorama Mapping Dossier"
 author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
+categories: [ microStrategy, tutorial, panorama ]
+tags: [John, State Dept]
+image: assets/images/pano.png
 imagebody: 
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "A walkthrough of the Mapping Dossier's, sections, functionality, and limitations."
 featured: true
 hidden: true
-rating: 4.5
+rating: 2
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+A walkthrough of the Mapping Dossier's, sections, functionality, and limitations.
 
 #### How to use?
 

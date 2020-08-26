@@ -1,13 +1,18 @@
 ---
 layout: post
-title:  "Spoilers"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
-imagebody: assets/images/12.jpg
+title:  "Getting Started with Python"
+author: keif
+categories: [ python, tutorial, ]
+tags: [Keifer Gonzalez, CDC]
+image: assets/images/geopandas_vert.png
+imagebody: 
 featured: true
 hidden: true
+description: "Learn a few simple python commands to transform your geographic data."
+rating: 1
 ---
+
+Learn a few simple python commands to transform your geographic data.
 
 Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
 
