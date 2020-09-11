@@ -1,34 +1,38 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: ICPI GIS Cluster
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>This website is was made to better navigate and use geographic tools and processes in programmatic analysis. Within this site you will find curabitur gravida arcu ac tortor. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Nam aliquam sem et tortor consequat id. Turpis massa tincidunt dui ut ornare. Magna ac placerat vestibulum lectus mauris ultrices eros. </p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<h6>GIS Cluster Memembers</h6>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<li> Person 1: </li>
+<li> Person 2: </li>
+<li> Person 3: </li>
 
-<h4>Questions or bug reports?</h4>
+<br />
+<br />
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<h6>Questions or bug reports?</h6>
+
+<p>Head over to our <a href="https://github.com/ICPI/GIS/issues">Github repository</a> to submit an issue or email one of the authors!</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>GIS Cluster Wiki</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>For more documentation on the work we do, please visit our Cluster Wiki page. </p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.pepfar.net/sites/UserManagement/SitePages/Welcome.aspx" class="btn btn-danger">PEPFAR SharePoint</a> <a target="_blank" href="https://github.com/ICPI/GIS/wiki" class="btn btn-warning">Wiki Documentation</a>
 
 </div>
 </div>

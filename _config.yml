@@ -1,7 +1,7 @@
 # Site
 name: "GIS Education | PEPFAR ICPI"
 title: "PEPFAR GIS"
-description: "A resource for learning how to leverage geographic tools with PEPFAR data."
+description: "A resource for learning how to leverage geographic tools to analyze PEPFAR data."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /gis-cluster-test2
@@ -37,10 +37,60 @@ authors:
     display_name: Nathanael Greene
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
+    email: 
     web: /gis-cluster-test2/tags#Nathanael-Greene
-    twitter: https://twitter.com/wowthemesnet
+    twitter: 
     description: "The other one, not Gina."
+
+  jess:
+    name: Jessica
+    display_name: Jessica Day
+    avatar: 'assets/images/sloth.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: 
+    web: /gis-cluster-test2/tags#Jessica-Day
+    twitter: 
+    description: "Ask me how to make a map."
+
+  jim:
+    name: Jimmy
+    display_name: Jimmy Neutron
+    avatar: 'assets/images/jimmy.jpg'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: 
+    web: /gis-cluster-test2/tags#Jimmy-Neutron
+    twitter: 
+    description: "Will it blend?"
+
+  storm:
+    name: Ororo
+    display_name: Ororo Munroe
+    avatar: 'assets/images/storm.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: 
+    web: /gis-cluster-test2/tags#Ororo-Munroe
+    twitter: 
+    description: "I can make it work."
+  
+  kong:
+    name: King
+    display_name: King Kong
+    avatar: 'assets/images/kingkong.jpg'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: 
+    web: /gis-cluster-test2/tags#King-Kong
+    twitter: 
+    description: "A real friend of the people."
+
+  retsuko:
+    name: Retsuko
+    display_name: Retsuko Panda
+    avatar: 'assets/images/retsuko.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: 
+    web: /gis-cluster-test2/tags#Retsuko-Panda
+    twitter: 
+    description: "As elusive as a real life red panda."
 
 # Plugins
 plugins:
