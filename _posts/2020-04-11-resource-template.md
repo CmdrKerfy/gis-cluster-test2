@@ -8,6 +8,8 @@ image: assets/images/spatial_lifecycle2.png
 rating: 2
 ---
 
+<!-- Quick Description:  -->
+Maecenas volutpat blandit aliquam etiam erat. Imperdiet dui accumsan sit amet nulla facilisi morbi.
 
 #### What is This Document?
 This is the written script of the recorded PVA course on how to make a map. 

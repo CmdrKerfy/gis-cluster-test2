@@ -23,7 +23,7 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
-<h3>Getting Started with Python:</h3>
+<h3>Getting Started with QGIS:</h3>
 
 <main class="grid">
   <a href = 'placeholder'><img src="/gis-cluster-test2/assets/images/QGIS1.png"></a>

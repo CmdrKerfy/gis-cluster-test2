@@ -3,7 +3,7 @@ layout: post
 title:  "General Tutorial Template"
 author: jess
 categories: [ OpenStreetMap, tutorial, Data Creation ]
-tags: [ Intermeadiate ]
+tags: [ Intermediate ]
 image: assets/images/pts_map.jpeg
 rating: 3
 ---
